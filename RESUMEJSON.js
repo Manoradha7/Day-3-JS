@@ -7,7 +7,7 @@ let resume={
       "phone": "8838432335",
       "summary": "A summary of Manokaran",
       "location": {
-        "address": "108,marriyamman kovil st",
+        "address": "108,marriyamman kovil st,sikkathambur",
         "postalCode": "621008",
         "city": "Trichy",
         "countryCode": "+91",
